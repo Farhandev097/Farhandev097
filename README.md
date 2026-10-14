@@ -18,7 +18,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Com student at **CSJM University, Kanpur**, building a career in software through projects
 - 🔭 Focused on **full-stack development** and **DevOps / cloud infrastructure**
 - 🌱 Currently exploring **AI/ML** with Python and PyTorch
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript, backend development, and DevOps**
